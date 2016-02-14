@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1449266713 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\gestion bibliotecaria\main.cpp
+	<iostream>
+	"Menu.h"
+
+1449281785 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\gestion bibliotecaria\include\menu.h
+	"Pila.h"
+	"Libro.h"
+	"Menu.h"
+
+1449279186 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\gestion bibliotecaria\include\pila.h
+	"Libro.h"
+
+1449280455 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\gestion bibliotecaria\include\libro.h
+	"string"
+
+1449281899 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\gestion bibliotecaria\src\libro.cpp
+	"Libro.h"
+	<iostream>
+	<stdlib.h>
+
+1449279495 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\gestion bibliotecaria\src\pila.cpp
+	"Pila.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1449283369 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\gestion bibliotecaria\src\menu.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<stdlib.h>
+	"Menu.h"
+	"Pila.h"
+
+1449281899 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea3\gestion bibliotecaria\src\libro.cpp
+	"Libro.h"
+	<iostream>
+	<stdlib.h>
+
+1449280455 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea3\gestion bibliotecaria\include\libro.h
+	"string"
+
+1449283887 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea3\gestion bibliotecaria\src\menu.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<stdlib.h>
+	"Menu.h"
+	"Pila.h"
+
+1449281785 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea3\gestion bibliotecaria\include\menu.h
+	"Pila.h"
+	"Libro.h"
+	"Menu.h"
+
+1449279186 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea3\gestion bibliotecaria\include\pila.h
+	"Libro.h"
+
+1449283988 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea3\gestion bibliotecaria\main.cpp
+	<iostream>
+	"Menu.h"
+
+1449283960 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\tarea3\gestion bibliotecaria\src\pila.cpp
+	"Pila.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+
